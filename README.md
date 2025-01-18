@@ -52,7 +52,7 @@ Ensure the following are installed on your system:
 ---
 
 ### Performance Report  
-This application was evaluated using Google PageSpeed Insights. View the report [here]().  
+This application was evaluated using Google PageSpeed Insights. View the report [here](https://task-management-task-delta.vercel.app/).  
 
 ---
 
